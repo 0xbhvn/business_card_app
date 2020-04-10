@@ -24,6 +24,15 @@ class MyApp extends StatelessWidget {
                   fontWeight: FontWeight.bold,
                 ),
               ),
+              Text(
+                'Entrepreneur'.toUpperCase(),
+                style: TextStyle(
+                  fontFamily: 'OpenSans',
+                  fontSize: 16.0,
+                  fontWeight: FontWeight.w200,
+                  letterSpacing: 4.0,
+                ),
+              )
             ],
           ),
         ),
