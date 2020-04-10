@@ -16,6 +16,14 @@ class MyApp extends StatelessWidget {
                 radius: 80.0,
                 backgroundImage: AssetImage('images/avatar.jpg'),
               ),
+              Text(
+                'Bhaven Kakade',
+                style: TextStyle(
+                  fontFamily: 'Poppins',
+                  fontSize: 28.0,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
             ],
           ),
         ),
